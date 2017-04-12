@@ -4,3 +4,4 @@ Assignments and Project of Probability and Statistics Course taken in Semester2,
 Lab1 - Probability Theory Overview </br>
 Lab2 - Random Variables </br>
 Lab3 - Statistical Inference </br>
+Lab4 - Statistical Inference </br>
